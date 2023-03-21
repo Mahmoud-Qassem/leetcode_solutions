@@ -1,23 +1,33 @@
-class Solution {
-public:
-    int f(int i,int t,vector<int>& coins,vector<vector<int>>&dp){
-        if(i==0){
-            if(t%coins[0]==0) return t/coins[0];
-            else return 1e9;
+vector<int>v;
+int n,c=0;
+const long long MX=10005;
+long long dp[MX];
+class Solution
+{
+
+private:
+    long long solve(long long x)
+    {
+        if (x < 0) return INT_MAX;
+        if (x == 0) return 0;
+        auto&ret=dp[x];
+        if(~ret)return ret;
+        long long best = INT_MAX;
+        for (auto c : v)
+        {
+            best = min(best, solve(x-c)+1);
         }
-        if(dp[i][t]!=-1) return dp[i][t];
-        int nt=0+f(i-1,t,coins,dp);
-        int tt=1e9;
-        if(coins[i]<=t){
-            tt=1+f(i,t-coins[i],coins,dp);
-        }
-        return dp[i][t]=min(tt,nt);
+        return ret=best;
     }
-    int coinChange(vector<int>& coins, int t) {
-        int n=coins.size();
-        vector<vector<int>>dp(n,vector<int>(t+1,-1));
-        int x=f(n-1,t,coins,dp);
-        if(x!=1e9) return x;
-        else return -1;
+
+
+public:
+    int coinChange(vector<int>& coins, int amount)
+    {
+        v=coins;
+        n=v.size();
+        memset(dp,-1,sizeof(dp));
+        int tmp=solve(amount);
+        return tmp==INT_MAX?-1:tmp;
     }
 };
