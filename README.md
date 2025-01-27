@@ -6,21 +6,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 ## Topological Sort
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 ## Array
 |  |
