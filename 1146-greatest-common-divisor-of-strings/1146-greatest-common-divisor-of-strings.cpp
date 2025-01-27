@@ -2,7 +2,7 @@ class Solution {
 public:
     string gcdOfStrings(string str1, string str2) {
         int n=str1.size(),m=str2.size();
-        auto divide = [&](string gcd)->bool{
+        auto divide = [&](string&gcd)->bool{
             bool ok=1;
             int x=gcd.size(),i=0;
             for(i=0; i+x<=n; i+=x) {
