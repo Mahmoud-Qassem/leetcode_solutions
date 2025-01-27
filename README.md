@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1876-map-of-highest-peak) |
 ## Graph
@@ -23,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -33,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -40,4 +44,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2145-grid-game) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1396-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
