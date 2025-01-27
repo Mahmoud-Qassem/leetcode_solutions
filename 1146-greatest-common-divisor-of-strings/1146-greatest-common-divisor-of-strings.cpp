@@ -5,14 +5,14 @@ public:
         auto divide = [&](string gcd)->bool{
             bool ok=1;
             int x=gcd.size(),i=0;
-            for(i=0;i+x<=n;i+=x){
+            for(i=0; i+x<=n; i+=x) {
                 string tmp=str1.substr(i,x);
                 //cout<<tmp<<" "<<gcd<<endl;
                 if(tmp!=gcd)return 0;
             }
             if(i!=n)return 0;
-            
-            for(i=0;i+x<=m;i+=x){
+
+            for(i=0; i+x<=m; i+=x) {
                 string tmp=str2.substr(i,x);
                 //cout<<tmp<<" "<<gcd<<endl;
                 if(tmp!=gcd)return 0;
@@ -21,8 +21,14 @@ public:
             return 1;
         };
         string s,ans="";
-        for(auto c:str1){
+        for(auto c:str1) {
             s+=c;
+            if(str1.size() % s.size() != 0) {
+                continue;
+            }
+            if(str2.size() % s.size() != 0) {
+                continue;
+            }
             if(divide(s))ans=s;
         }
         return ans;
