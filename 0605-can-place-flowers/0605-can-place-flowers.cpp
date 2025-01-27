@@ -5,7 +5,7 @@ public:
         if (m == 1 and n and v[0])
             return 0;
         else if (m == 1)
-            return 1;
+            return 1; 
 
         for (int i = 0; i < m and n; ++i) {
             if (!v[i]) {
