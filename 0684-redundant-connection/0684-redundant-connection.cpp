@@ -31,7 +31,7 @@ public:
                 }
             }
 
-            if(Stack.size() and  Stack.top()==node)Stack.pop();
+            if(Stack.size())Stack.pop();
         };
         
         dfs(dfs,1,1);
