@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2487-optimal-partition-of-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2487-optimal-partition-of-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Matrix
 |  |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2487-optimal-partition-of-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2487-optimal-partition-of-string) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [2487-optimal-partition-of-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2487-optimal-partition-of-string) |
 ## Number Theory
 |  |
 | ------- |
