@@ -7,7 +7,9 @@ public:
         for(int i=0;i<n;++i){
             if(frq[s[i]-'a']){
                 cnt++;
-                frq=vector<bool>(27);
+                frq.clear();
+                frq.resize(27);
+
             }
             frq[s[i]-'a']=true;
         }
