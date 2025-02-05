@@ -103,8 +103,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1585-the-kth-factor-of-n](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1585-the-kth-factor-of-n) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0605-can-place-flowers) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
