@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 | [2487-optimal-partition-of-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2487-optimal-partition-of-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -124,4 +125,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
