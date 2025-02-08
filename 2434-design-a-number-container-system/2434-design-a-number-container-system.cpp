@@ -1,7 +1,7 @@
 class NumberContainers {
 public:
-    map<int,int>carries;
-    map<int,set<int>>idexs;
+    unordered_map<int,int>carries;
+    unordered_map<int,set<int>>idexs;
 
     NumberContainers() {
         idexs.clear();
