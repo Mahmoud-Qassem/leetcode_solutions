@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2487-optimal-partition-of-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2487-optimal-partition-of-string) |
+| [3447-clear-digits](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -141,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
