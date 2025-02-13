@@ -1,3 +1,10 @@
+#pragma GCC optimize("O3,inline")
+#pragma GCC target("sse2,sse3,sse4.1,sse4.2,avx,avx2,popcnt,fma,bmi,bmi2,lzcnt")
+#pragma clang attribute push ([[gnu::target("sse2,sse3,sse4.1,sse4.2,avx,avx2,popcnt,fma,bmi,bmi2,lzcnt")]], apply_to=function)
+#include <ranges>
+namespace {
+    const int _ = []{ios::sync_with_stdio(0);cin.tie(0);cout.tie(0);return 0;}();
+}
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
@@ -22,3 +29,4 @@ public:
         return ops;
     }
 };
+#pragma clang attribute pop
