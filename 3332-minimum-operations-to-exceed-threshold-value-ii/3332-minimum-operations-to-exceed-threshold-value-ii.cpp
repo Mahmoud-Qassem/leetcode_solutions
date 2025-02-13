@@ -8,14 +8,16 @@ namespace {
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        long long ops=0,n=nums.size();
+        long long ops=0;
         multiset<long long>s;
         for(long long it:nums) {
+            if(it<k)
             s.insert(it);
         }
+        if(s.empty())return 0;
 
         auto x=s.begin();
-        while(s.size()>1 and *x<k) {
+        while(s.size()>1) {
             long long s1=*(x);
             s.erase(x);
             x=s.begin();
@@ -25,7 +27,9 @@ public:
             s.insert(s1*2+s2);
             ops++;
             x=s.begin();
+            if(*x>=k)break;
         }
+        if(*x<k)ops++;
         return ops;
     }
 };
