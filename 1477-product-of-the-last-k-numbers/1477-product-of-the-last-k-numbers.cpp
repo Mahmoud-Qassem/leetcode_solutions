@@ -1,29 +1,19 @@
 class ProductOfNumbers {
 public:
-    int crnt=1;
-    int lstZero=-1;
-    vector<int>prfx;
-    bool parity=0;
-    ProductOfNumbers() {
-        crnt=1;
-        parity=0;
-        prfx=vector<int>(40005,1);
-    }
-    
+    vector<int> pre{1};
+    ProductOfNumbers() {}
+
     void add(int num) {
-        if(!num)lstZero=crnt,prfx[crnt]=1;
-        else prfx[crnt]=num*prfx[crnt-1];
-        crnt++;
+        if (num != 0) {
+            pre.push_back(num * pre.back());
+        } else {
+            pre.clear();
+            pre.push_back(1);
+        }
     }
-    
+
     int getProduct(int k) {
-        int right=crnt-1, left=crnt-1-k;
-        if(left<lstZero){
-            return 0;
-        }
-        else {
-            return (prfx[crnt-1]/prfx[crnt-k-1]);
-        }
+        return k < pre.size() ? pre.back() / pre[pre.size() - k - 1] : 0;
     }
 };
 
