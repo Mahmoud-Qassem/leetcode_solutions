@@ -35,7 +35,7 @@ public:
         mine.clear();
         x=n;
         rec("");
-        //if(mine.size()<k)return "";
+        if(mine.size()<k)return "";
         for(auto&it:mine){
             k--;
             if(not k)return it;
