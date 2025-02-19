@@ -1,10 +1,11 @@
 class Solution {
 public:
-    set<string>mine;
-    int x;
-    void rec(string crnt){
-        if(crnt.size()==x){
-            mine.insert(crnt);
+    string ans="";
+    void rec(int n,string crnt,int&k){
+        if(!k)return ;
+        if(crnt.size()==n){
+            k--;
+            if(not k)ans=crnt;
             return ;
         }
         
@@ -13,33 +14,26 @@ public:
             last=crnt.back();
             
         if(last=='a'){
-            rec(crnt+'c');
-            rec(crnt+'b');
-            
+            rec(n,crnt+'b',k);
+            rec(n,crnt+'c',k);            
         }
         else if(last=='b'){
-            rec(crnt+'c');
-            rec(crnt+'a');
+            rec(n,crnt+'a',k);            
+            rec(n,crnt+'c',k);            
         }
         else if(last=='c'){
-            rec(crnt+'b');
-            rec(crnt+'a');
+            rec(n,crnt+'a',k);            
+            rec(n,crnt+'b',k);                        
         }
         else{            
-            rec(crnt+'a');
-            rec(crnt+'b');
-            rec(crnt+'c');
+            rec(n,crnt+'a',k);            
+            rec(n,crnt+'b',k);            
+            rec(n,crnt+'c',k);            
         }
     }
     string getHappyString(int n, int k) {
-        mine.clear();
-        x=n;
-        rec("");
-        if(mine.size()<k)return "";
-        for(auto&it:mine){
-            k--;
-            if(not k)return it;
-        }
-        return "";
+        ans="";
+        rec(n,"",k);
+        return ans;
     }
 };
