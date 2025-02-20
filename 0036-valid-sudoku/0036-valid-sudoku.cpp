@@ -4,7 +4,7 @@ private:
     int n, m;
     bool valid(int r, int c, vector<vector<char>> &board)
     {
-        unordered_map<char, int> mp;
+        vector<int> mp(300);
         for (int i = r; i < r + 3; ++i)
         {
             for (int j = c; j < c + 3; ++j)
@@ -24,7 +24,7 @@ public:
 
         for (int c = 0; c < m; ++c)
         {
-            unordered_map<char, int> mp;
+            vector<int> mp(300);
             for (int r = 0; r < n; ++r)
             {
                 if (board[r][c] != '.' && mp[board[r][c]])
@@ -36,7 +36,7 @@ public:
 
         for (int r = 0; r < n; ++r)
         {
-            unordered_map<char, int> mp;
+            vector<int> mp(300);
             for (int c = 0; c < m; ++c)
             {
                 if (board[r][c] != '.' && mp[board[r][c]])
