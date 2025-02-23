@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0605-can-place-flowers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [0739-daily-temperatures](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1396-count-servers-that-communicate) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -210,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
