@@ -224,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
