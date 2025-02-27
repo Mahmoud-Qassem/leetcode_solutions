@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0584-find-customer-referee) |
 | [1161-project-employees-i](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1161-project-employees-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Dynamic Programming
