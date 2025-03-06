@@ -7,7 +7,7 @@ public:
                 int num = grid[i][j]-1;
                 int x = num / n;
                 int y = num % n;
-                cout<<x<<" "<<y<<endl;
+                //cout<<x<<" "<<y<<endl;
                 if (x == i and y == j)
                     continue;
                 if (grid[x][y] == num+1) {
