@@ -1,24 +1,15 @@
 class Solution {
 public:
     int minimumRecolors(string s, int k) {
-        int left=0,right=0,w=0,b=0,n=s.size();
-        while(right-left+1<=k){
-            w+=(s[right]=='W');
-            b+=(s[right]=='B');
-            right++;
+        vector<bool>v;
+        for(auto&it:s){
+            if(it=='B')v.push_back(1);
+            else v.push_back(0);
         }
-        int mn=max(k-b,0);
-        cout<<mn<<endl;
-        while(right<n){
-            w-=(s[left]=='W');
-            b-=(s[left]=='B');
-            left++;
-            w+=(s[right]=='W');
-            b+=(s[right]=='B');
-            if(right-left+1==k)
-            mn=min(mn,max(k-b,0));
-            right++;
-            cout<<mn<<endl;
+        int n=s.size(),mn=k,sum=0;
+        for(int i=0;i+k-1<n;++i){
+            sum=accumulate(v.begin()+i, v.begin()+k+i,0);
+            mn=min(mn,max(0,k-sum));
         }
         return mn;
     }
