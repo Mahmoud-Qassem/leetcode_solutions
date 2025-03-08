@@ -6,9 +6,10 @@ public:
             if(it=='B')v.push_back(1);
             else v.push_back(0);
         }
-        int n=s.size(),mn=k,sum=0;
-        for(int i=0;i+k-1<n;++i){
-            sum=accumulate(v.begin()+i, v.begin()+k+i,0);
+        int n=s.size(),sum=accumulate(v.begin(), v.begin()+k,0),mn=max(0,k-sum);
+        for(int i=0;i+k<n;++i){
+            sum-=v[i];
+            sum+=v[i+k];
             mn=min(mn,max(0,k-sum));
         }
         return mn;
