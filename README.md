@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2487-optimal-partition-of-string) |
 | [3447-clear-digits](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3447-clear-digits) |
 ## Math
@@ -279,4 +280,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-shortest-common-supersequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
