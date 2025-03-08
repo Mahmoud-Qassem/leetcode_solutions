@@ -8,7 +8,10 @@ public:
             for(int j=i;j<n;++j){
                 w+=(s[j]=='W');
                 b+=(s[j]=='B');
-                if(j-i+1==k)mn=min(mn,max(k-b,0));
+                if(j-i+1==k){
+                    mn=min(mn,max(k-b,0));
+                    break;
+                }
             }
         }
         return mn;
