@@ -1,29 +1,32 @@
 class Solution {
 public:
     int carFleet(int target, vector<int>& position, vector<int>& speed) {
-        vector<double>dist;
+        struct car{
+            int position, speed;
+        };
         int n=position.size();
-        vector<pair<int,int>>combine;
-
+        vector<car>cars;
         for(int i=0;i<n;++i){
-            combine.push_back({position[i],speed[i]});
+            cars.push_back(car{position[i],speed[i]});
         }
-        sort(combine.rbegin(), combine.rend());
+        sort(cars.begin(),cars.end(),[](car&toyota, car&bmw){
+             return toyota.position>bmw.position;
+        });
 
-        for(int i=0;i<n;++i){
-            dist.push_back( (target-combine[i].first)/(double)combine[i].second );
+        vector<float>finishTime;
+        for(car&c:cars){
+            finishTime.push_back( (target-c.position)/(float)c.speed );
         }
-        for(auto&it:dist)cout<<it<<" ";
-        cout<<endl;
-        int groups=n;
-        double last=dist[0];
 
+        int fleets=n;
+        float last=finishTime[0];
+        
         for(int i=1;i<n;++i){
-            if(dist[i]-last>0){
-                last=dist[i];
+            if(finishTime[i]-last>0){
+                last=finishTime[i];
             }
-            else groups--;
+            else fleets--;
         }
-        return groups;
+        return fleets;
     }
 };
