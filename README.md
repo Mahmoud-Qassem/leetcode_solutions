@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0595-big-countries) |
+| [0627-swap-salary](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0627-swap-salary) |
 | [1161-project-employees-i](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1258-article-views-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
