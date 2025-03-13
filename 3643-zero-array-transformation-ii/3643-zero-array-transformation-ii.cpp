@@ -27,6 +27,9 @@ public:
     int minZeroArray(vector<int>& nums, vector<vector<int>>& queries) {
         int n = nums.size(),q=queries.size();
         int left=0, right=q,ans=-1;
+        if(zero(nums,queries,0)) return 0;
+        if(!zero(nums,queries,right)) return -1;
+
         while(left<=right){
             int mid=left+(right-left)/2;
             if(zero(nums,queries, mid)){
