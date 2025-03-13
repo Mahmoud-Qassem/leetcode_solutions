@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3483-alternating-groups-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2145-grid-game) |
+| [3639-zero-array-transformation-i](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Union Find
 |  |
