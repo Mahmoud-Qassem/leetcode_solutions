@@ -2,7 +2,7 @@ class Solution {
 public:
     int maximumCandies(vector<int>& candies, long long k) {
         long long sum=accumulate(candies.begin(),candies.end(),0LL);
-        long long mn=*min_element(candies.begin(),candies.end());
+        int mn=*min_element(candies.begin(),candies.end());
         long long left=1, right=sum/k,mid,n=candies.size(), ans=0;
 
         while(left<=right){
@@ -19,8 +19,6 @@ public:
 
         }
         return ans;
-
-        return min(mn,sum/k);
         
     }
 };
