@@ -19,12 +19,14 @@ public:
             crnt[big[right]]++;
             right++;
             
-            while(left<n and valid()){
+            while(left<n and fixed[ big[left] ]< crnt[big[left]]){
+                crnt[big[left]]--;
+                left++;
+            }
+            if(valid()){
                 if(ans>right-left+1){
                     x=left,y=right,ans=right-left+1;
                 }
-                crnt[big[left]]--;
-                left++;
             }
         }
         if(x!=-1)return big.substr(x,y-x);
