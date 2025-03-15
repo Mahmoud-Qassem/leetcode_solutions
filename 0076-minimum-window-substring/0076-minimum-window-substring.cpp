@@ -4,11 +4,11 @@ public:
         int n=big.size(), m=small.size();
         if(n<m)return "";
 
-        vector<int>crnt(130),fixed(130);
+        vector<int>crnt(128),fixed(128);
         for(char c:small)fixed[c]++;
 
         auto notyet=[&]()-> bool{
-            for(int i=0;i<130;++i){
+            for(int i=0;i<128;++i){
                 if(fixed[i] and fixed[i]>crnt[i]){
                     return true;
                 }
@@ -16,7 +16,7 @@ public:
             return false;
         };
         auto valid=[&]()-> bool{
-            for(int i=0;i<130;++i){
+            for(int i=0;i<128;++i){
                 if(fixed[i] and fixed[i]>crnt[i]){
                     return false;
                 }
