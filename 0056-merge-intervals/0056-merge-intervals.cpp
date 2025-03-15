@@ -8,10 +8,9 @@ public:
         for(int i=1;i<n;++i){
             int leftBound=intervals[i][0];
             if(leftBound<=ans.back()[1] ){
-                ans.back()[0]=min(intervals[i][0],ans.back()[0]);
                 ans.back()[1]=max(intervals[i][1],ans.back()[1]);
             }
-            else ans.push_back({intervals[i][0],intervals[i][1]});
+            else ans.push_back(intervals[i]);
         }
         return ans;
     }
