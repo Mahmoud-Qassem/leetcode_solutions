@@ -7,8 +7,7 @@ public:
         int n=intervals.size();
         for(int i=1;i<n;++i){
             int leftBound=intervals[i][0];
-            int rightBound=intervals[i][0];
-            if(leftBound>= ans.back()[0] and leftBound<=ans.back()[1] ){
+            if(leftBound<=ans.back()[1] ){
                 ans.back()[0]=min(intervals[i][0],ans.back()[0]);
                 ans.back()[1]=max(intervals[i][1],ans.back()[1]);
             }
