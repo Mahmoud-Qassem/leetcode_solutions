@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0239-sliding-window-maximum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [2434-design-a-number-container-system](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -334,4 +337,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3643-zero-array-transformation-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
