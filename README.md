@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0435-non-overlapping-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0605-can-place-flowers) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1170-shortest-common-supersequence) |
