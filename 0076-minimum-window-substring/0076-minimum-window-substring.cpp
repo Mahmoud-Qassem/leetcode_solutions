@@ -6,10 +6,11 @@ public:
             return "";
 
         vector<int> crnt(128), fixed(128);
-        for (char c : small)
-            fixed[c]++;
         int cnt=0;
-        for(auto&k:fixed)if(k)cnt++;
+        for (char c : small){
+            if(not fixed[c])cnt++;
+            fixed[c]++;
+        }
 
         int left = 0, right = 0, ans = INT_MAX, x = -1, y = -1;
         int balanced=0;
@@ -17,7 +18,6 @@ public:
         while (right < n) {
             crnt[big[right]]++;
             if( fixed[ big[right] ] and fixed[ big[right] ]-crnt[big[right]] ==0)balanced++;
-
             right++;
 
             while (left < n and fixed[big[left]] < crnt[big[left]]) {
