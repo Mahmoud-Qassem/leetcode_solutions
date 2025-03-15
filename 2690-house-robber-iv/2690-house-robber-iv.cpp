@@ -1,8 +1,7 @@
 class Solution {
-public:
     bool check(vector<int>& nums, int k, int limit) {
         int n = nums.size();
-        for (int i = 0; i < n and k and (n-i)>=k; ++i) {
+        for (int i = 0; i < n and k and (n - i) >= k; ++i) {
             if (nums[i] <= limit) {
                 i++;
                 k--;
@@ -10,6 +9,8 @@ public:
         }
         return not k;
     }
+
+public:
     int minCapability(vector<int>& nums, int k) {
         int n = nums.size(), ans;
         int left = *min_element(nums.begin(), nums.end());
