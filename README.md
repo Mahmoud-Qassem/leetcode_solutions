@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1160-letter-tile-possibilities) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1160-letter-tile-possibilities) |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3483-alternating-groups-ii) |
