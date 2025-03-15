@@ -6,15 +6,6 @@ public:
 
         vector<int>crnt(128),fixed(128);
         for(char c:small)fixed[c]++;
-
-        auto notyet=[&]()-> bool{
-            for(int i=0;i<128;++i){
-                if(fixed[i] and fixed[i]>crnt[i]){
-                    return true;
-                }
-            }
-            return false;
-        };
         auto valid=[&]()-> bool{
             for(int i=0;i<128;++i){
                 if(fixed[i] and fixed[i]>crnt[i]){
@@ -24,19 +15,17 @@ public:
             return true;
         };
         int left=0,right=0,ans=INT_MAX,x=-1,y=-1;
-        while(left<n){
-            while(right<n and notyet()){
-                crnt[big[right]]++;
-                right++;
-            }
-            if(valid()){
-                //cout<<left<<" "<<right<<endl;
+        while(right<n){
+            crnt[big[right]]++;
+            right++;
+            
+            while(left<n and valid()){
                 if(ans>right-left+1){
                     x=left,y=right,ans=right-left+1;
                 }
+                crnt[big[left]]--;
+                left++;
             }
-            crnt[big[left]]--;
-            left++;
         }
         if(x!=-1)return big.substr(x,y-x);
         return "";
