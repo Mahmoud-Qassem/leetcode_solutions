@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2434-design-a-number-container-system](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
@@ -274,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -281,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -345,4 +350,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
