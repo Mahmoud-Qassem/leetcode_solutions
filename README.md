@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0567-permutation-in-string) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
