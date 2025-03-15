@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0435-non-overlapping-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0854-making-a-large-island) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0883-car-fleet](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0883-car-fleet) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2487-optimal-partition-of-string) |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
