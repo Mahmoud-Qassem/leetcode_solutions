@@ -2,7 +2,7 @@ class Solution {
 public:
     bool check(vector<int>& nums, int k, int limit) {
         int n = nums.size();
-        for (int i = 0; i < n and k; ++i) {
+        for (int i = 0; i < n and k and (n-i)>=k; ++i) {
             if (nums[i] <= limit) {
                 i++;
                 k--;
