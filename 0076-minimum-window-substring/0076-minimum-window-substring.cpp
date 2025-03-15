@@ -8,25 +8,25 @@ public:
         vector<int> crnt(128), fixed(128);
         for (char c : small)
             fixed[c]++;
-        auto valid = [&]() -> bool {
-            for (int i = 0; i < 128; ++i) {
-                if (fixed[i] and fixed[i] > crnt[i]) {
-                    return false;
-                }
-            }
-            return true;
-        };
+        int cnt=0;
+        for(auto&k:fixed)if(k)cnt++;
+
         int left = 0, right = 0, ans = INT_MAX, x = -1, y = -1;
+        int balanced=0;
+
         while (right < n) {
             crnt[big[right]]++;
+            if( fixed[ big[right] ] and fixed[ big[right] ]-crnt[big[right]] ==0)balanced++;
+
             right++;
 
             while (left < n and fixed[big[left]] < crnt[big[left]]) {
                 crnt[big[left]]--;
+                if( fixed[ big[left] ] and fixed[ big[left] ]-crnt[big[left]] ==1)balanced--;
                 left++;
             }
 
-            if (ans > right - left + 1 and valid()) {
+            if (ans > right - left + 1 and balanced==cnt) {
                 x = left, y = right, ans = right - left + 1;
             }
         }
