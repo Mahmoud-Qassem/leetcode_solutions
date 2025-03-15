@@ -10,7 +10,7 @@ public:
                 if ((right - left) - *max_element(frq.begin(), frq.end()) <= k)
                     ans = max(ans, right - left);
             }
-            cout << left << " " << right << endl;
+            //cout << left << " " << right << endl;
             frq[s[left++]-'A']--;
         }
         return ans;
