@@ -1,16 +1,16 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
-        int cnt=0,n=nums.size();
-        for(int i=0;i<n-2;++i){
-            if(!nums[i]){
-                nums[i+1]^=1;
-                nums[i+2]^=1;
-                cnt++;
+        int n = nums.size(),ans = 0;
+        for(int i = 0;i < n;i ++){
+            if(nums[i] == 0){
+                ans ++;
+                if(i + 1 >= n || i + 2 >= n) return -1;
+                nums[i + 1] = 1 - nums[i + 1];
+                nums[i + 2] = 1 - nums[i + 2];
             }
         }
-        if(!nums[n-1] or !nums[n-2])
-        return -1;
-        return cnt;
+
+        return ans;
     }
 };
