@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<string> findAllRecipes(vector<string>& recipes, vector<vector<string>>& ingredients, vector<string>& supplies) {
         int n=recipes.size();
-        unordered_map<string,bool>sup;
+        unordered_map<string,bool>sup,needed;
         for(auto&su:supplies)sup[su]=true;
         
         vector<string>cook;
@@ -12,12 +12,14 @@ public:
             for(auto&ing:ingredients[i]){
                 if(!sup[ ing ]){
                     newRecipeAdded=0;
-                    break;
+                    needed[ing]=true;
+                    //break;
                 }
             }
             if(newRecipeAdded){
                 sup[recipes[i]]=true;
                 cook.push_back(recipes[i]);
+                if(needed[ recipes[i] ])
                 i=-1;
             }
         }
