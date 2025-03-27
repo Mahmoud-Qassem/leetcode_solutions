@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2487-optimal-partition-of-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2487-optimal-partition-of-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0883-car-fleet](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0883-car-fleet) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
