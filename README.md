@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0056-merge-intervals) |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2665-minimum-time-to-repair-cars) |
