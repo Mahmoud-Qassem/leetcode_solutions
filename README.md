@@ -407,4 +407,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1656-count-good-triplets) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
