@@ -39,8 +39,8 @@ class Solution {
 
          */
 
-        Set<String> ans = new HashSet<>();
-        Set<String> uniqueSets = new HashSet<>();
+        HashSet<String> ans = new HashSet<>();
+        HashSet<String> uniqueSets = new HashSet<>();
 
 
         for(int i=0;i<=n-10;++i){
