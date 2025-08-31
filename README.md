@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0883-car-fleet](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0883-car-fleet) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
