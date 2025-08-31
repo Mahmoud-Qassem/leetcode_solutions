@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0567-permutation-in-string) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0883-car-fleet) |
