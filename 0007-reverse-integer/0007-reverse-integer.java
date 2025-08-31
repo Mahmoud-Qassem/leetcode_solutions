@@ -1,6 +1,5 @@
 class Solution {
     public int reverse(int x) {
-        if(x == 1534236469)return 0;
         long reversedInt =0;
         int ab = Math.abs(x);
         while(ab>0){
