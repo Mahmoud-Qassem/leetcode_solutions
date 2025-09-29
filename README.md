@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0854-making-a-large-island) |
+| [0878-shifting-letters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0878-shifting-letters) |
 | [0883-car-fleet](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0883-car-fleet) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0878-shifting-letters) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2145-grid-game) |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0878-shifting-letters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0878-shifting-letters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1160-letter-tile-possibilities) |
