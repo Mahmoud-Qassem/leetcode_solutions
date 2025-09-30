@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1170-shortest-common-supersequence) |
