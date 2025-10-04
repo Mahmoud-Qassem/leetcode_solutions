@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0657-robot-return-to-origin](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [0878-shifting-letters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0878-shifting-letters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
