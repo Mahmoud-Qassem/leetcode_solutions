@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2107-find-unique-binary-string) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2145-grid-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3639-zero-array-transformation-i) |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1894-merge-strings-alternately](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2107-find-unique-binary-string) |
