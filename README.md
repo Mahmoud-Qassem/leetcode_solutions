@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
