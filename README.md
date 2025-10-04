@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0768-partition-labels) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1396-count-servers-that-communicate) |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0541-reverse-string-ii) |
