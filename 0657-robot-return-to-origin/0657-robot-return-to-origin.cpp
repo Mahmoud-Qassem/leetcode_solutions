@@ -6,8 +6,8 @@ public:
             if(s[i]=='U')up++;
             else if (s[i]=='D')up--;
 
-            if(s[i]=='L')left++;
-            else if (s[i]=='R')left--;
+            else if(s[i]=='L')left++;
+            else left--;
         }
         return !(up|left);
     }
