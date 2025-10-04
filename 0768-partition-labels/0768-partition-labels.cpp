@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> partitionLabels(string s) {
-        set<int>st;
+        vector<int>st;
         int mp[26]={0};
         int n=s.size();
         
@@ -14,11 +14,10 @@ public:
         int left=0;
         for(int i=0;i<n;++i){
             mp[s[i]-'a']--;
-            st.insert( s[i]-'a' );
+            st.push_back( s[i]-'a' );
 
             bool NoRemainingOfAllPrevLetters=true;
-            for(auto it=st.begin();it!=st.end();it++){
-                int c=(*it);
+            for(int c:st){
                 if(mp[c]){
                     NoRemainingOfAllPrevLetters=false;
                     break;
