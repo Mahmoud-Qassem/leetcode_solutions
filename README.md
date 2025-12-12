@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1396-count-servers-that-communicate) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1160-letter-tile-possibilities) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1364-tuple-with-same-product](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0768-partition-labels) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2487-optimal-partition-of-string) |
 ## Number Theory
