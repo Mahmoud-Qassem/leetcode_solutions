@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1656-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1751-slowest-key](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1751-slowest-key) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1876-map-of-highest-peak) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2145-grid-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1751-slowest-key](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1751-slowest-key) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1894-merge-strings-alternately](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
