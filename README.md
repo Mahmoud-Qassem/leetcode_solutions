@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0878-shifting-letters) |
 | [0883-car-fleet](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0883-car-fleet) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1396-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0768-partition-labels) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2487-optimal-partition-of-string) |
 ## Number Theory
