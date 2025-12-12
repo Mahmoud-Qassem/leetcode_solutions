@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0883-car-fleet](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0883-car-fleet) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -455,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2690-house-robber-iv) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3643-zero-array-transformation-ii](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Queue
