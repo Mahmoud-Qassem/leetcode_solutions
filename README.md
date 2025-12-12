@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1656-count-good-triplets) |
+| [1672-richest-customer-wealth](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1751-slowest-key](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1751-slowest-key) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0854-making-a-large-island](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1396-count-servers-that-communicate) |
+| [1672-richest-customer-wealth](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mahmoud-Qassem/leetcode_solutions/tree/master/2685-first-completely-painted-row-or-column) |
