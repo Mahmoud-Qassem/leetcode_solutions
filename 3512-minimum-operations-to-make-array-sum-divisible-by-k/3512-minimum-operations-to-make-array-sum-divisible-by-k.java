@@ -1,6 +1,5 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
-        int sum =(int) Arrays.stream(nums).sum();
-        return (int)(sum%k);
+        return (int)(((int) Arrays.stream(nums).sum())%k);
     }
 }
